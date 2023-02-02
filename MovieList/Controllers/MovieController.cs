@@ -5,6 +5,7 @@ namespace MovieList.Controllers
 {
     public class MovieController : Controller
     {
+        // testing git connection between Windows and Mac
         private MovieContext context { get; set; }
 
         public MovieController(MovieContext context)
