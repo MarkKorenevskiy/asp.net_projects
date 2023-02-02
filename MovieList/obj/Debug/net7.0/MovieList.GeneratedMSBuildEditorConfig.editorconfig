@@ -9,33 +9,33 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MovieList
 build_property.RootNamespace = MovieList
-build_property.ProjectDir = C:\Users\User\Source\Repos\MarkKorenevskiy\asp.net_projects\MovieList\
+build_property.ProjectDir = /Users/markkorenevskiy/Library/CloudStorage/OneDrive-GeorgeBrownCollege/asp.net_MVC_projects/CollegeProjects/Projects/MovieList/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\User\Source\Repos\MarkKorenevskiy\asp.net_projects\MovieList
+build_property.MSBuildProjectDirectory = /Users/markkorenevskiy/Library/CloudStorage/OneDrive-GeorgeBrownCollege/asp.net_MVC_projects/CollegeProjects/Projects/MovieList
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/User/Source/Repos/MarkKorenevskiy/asp.net_projects/MovieList/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[/Users/markkorenevskiy/Library/CloudStorage/OneDrive-GeorgeBrownCollege/asp.net_MVC_projects/CollegeProjects/Projects/MovieList/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Source/Repos/MarkKorenevskiy/asp.net_projects/MovieList/Views/Movie/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcRGVsZXRlLmNzaHRtbA==
+[/Users/markkorenevskiy/Library/CloudStorage/OneDrive-GeorgeBrownCollege/asp.net_MVC_projects/CollegeProjects/Projects/MovieList/Views/Movie/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW92aWUvRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Source/Repos/MarkKorenevskiy/asp.net_projects/MovieList/Views/Movie/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcRWRpdC5jc2h0bWw=
+[/Users/markkorenevskiy/Library/CloudStorage/OneDrive-GeorgeBrownCollege/asp.net_MVC_projects/CollegeProjects/Projects/MovieList/Views/Movie/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW92aWUvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Source/Repos/MarkKorenevskiy/asp.net_projects/MovieList/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/Users/markkorenevskiy/Library/CloudStorage/OneDrive-GeorgeBrownCollege/asp.net_MVC_projects/CollegeProjects/Projects/MovieList/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Source/Repos/MarkKorenevskiy/asp.net_projects/MovieList/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+[/Users/markkorenevskiy/Library/CloudStorage/OneDrive-GeorgeBrownCollege/asp.net_MVC_projects/CollegeProjects/Projects/MovieList/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Source/Repos/MarkKorenevskiy/asp.net_projects/MovieList/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-qmzboddhj0
+[/Users/markkorenevskiy/Library/CloudStorage/OneDrive-GeorgeBrownCollege/asp.net_MVC_projects/CollegeProjects/Projects/MovieList/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-492f25mg09
